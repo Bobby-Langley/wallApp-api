@@ -1,6 +1,6 @@
 # wallApp-api
 
-This is a Node-Express api backend for the Clean Earth frontend. 
+This is the Node-Express api backend for the Wall App frontend. 
 
 It is hosted on firebase and connected to the firestore database and written in javascript.
 
